@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/dazzle/static/css/main.31d6cfe0.css",
+    "main.js": "/dazzle/static/js/main.4153e42f.js",
+    "static/media/banner-01 1.png": "/dazzle/static/media/banner-01 1.eb0739a2290879ef157f.png",
+    "static/media/banner-slider.png": "/dazzle/static/media/banner-slider.8ccc5bccc8a7d9086cf4.png",
+    "static/media/t-shirtr-banner-1.png": "/dazzle/static/media/t-shirtr-banner-1.9a633c6feba27084cb65.png",
+    "static/media/banner-2.png": "/dazzle/static/media/banner-2.cb6c63d0c3af98cafc11.png",
+    "static/media/blog-4.png": "/dazzle/static/media/blog-4.478e747648a37c2f01c3.png",
+    "static/media/top-choice.gif": "/dazzle/static/media/top-choice.410578b3e530669a228b.gif",
+    "static/media/blog-1.png": "/dazzle/static/media/blog-1.a2313b0068c4e4eed5ea.png",
+    "static/media/blog-3.png": "/dazzle/static/media/blog-3.56b60871db3ebeff9da0.png",
+    "static/media/blog-2.png": "/dazzle/static/media/blog-2.8026eee990ad8e2c7885.png",
+    "static/media/p-4.png": "/dazzle/static/media/p-4.704f2dab278cc00ef036.png",
+    "static/media/p7.png": "/dazzle/static/media/p7.f426d0f5061cefaef061.png",
+    "static/media/p-1.png": "/dazzle/static/media/p-1.d5ba587f80c23ee6dd94.png",
+    "static/media/p5.png": "/dazzle/static/media/p5.0d887ff5ed0a6656642f.png",
+    "static/media/p8.png": "/dazzle/static/media/p8.da45841917df2b2fa71f.png",
+    "static/media/p3.png": "/dazzle/static/media/p3.c7ba869b9fa63b0caab0.png",
+    "static/media/p1.png": "/dazzle/static/media/p1.7975502900ee95814d36.png",
+    "static/media/p2.png": "/dazzle/static/media/p2.4a985150a6bcb9514620.png",
+    "static/media/tshirt-8.png": "/dazzle/static/media/tshirt-8.6b48f2cb629377957862.png",
+    "static/media/p4.png": "/dazzle/static/media/p4.48b7ac54d14d81a0f9cd.png",
+    "static/media/p6.png": "/dazzle/static/media/p6.100c13d1366a1209179b.png",
+    "static/media/tshirt-5.png": "/dazzle/static/media/tshirt-5.d2986f007ca37581b653.png",
+    "static/media/p-2.png": "/dazzle/static/media/p-2.75495176a0519989fb36.png",
+    "static/media/mini-1.png": "/dazzle/static/media/mini-1.155e00ca103f7926deff.png",
+    "static/media/p-3.png": "/dazzle/static/media/p-3.abce3380e7d4c7487d2a.png",
+    "static/media/mini-4.png": "/dazzle/static/media/mini-4.c8ea770a50dc889a29e4.png",
+    "static/media/mini-2.png": "/dazzle/static/media/mini-2.f98bf8e8cd448a798bbe.png",
+    "static/media/mini-3.png": "/dazzle/static/media/mini-3.d66b4478050028df5f76.png",
+    "static/media/tshirt-6.png": "/dazzle/static/media/tshirt-6.bc519bf7575b7457fae0.png",
+    "static/media/tshirt-7.png": "/dazzle/static/media/tshirt-7.e8dacdeb2d0745107a11.png",
+    "static/media/tshirt-4.png": "/dazzle/static/media/tshirt-4.83eaf6b79f53a9ee0090.png",
+    "static/media/payments.png": "/dazzle/static/media/payments.4f03182eb8b59261da57.png",
+    "index.html": "/dazzle/index.html",
+    "main.4153e42f.js.map": "/dazzle/static/js/main.4153e42f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4153e42f.js"
+  ]
+}
